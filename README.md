@@ -13,3 +13,7 @@ Jerksdle is a word game clone built as a result of running through a training co
 - Testing
 - Additional animations for win/lose/guess conditions
 - More easter eggs for my team to enjoy
+
+
+## TODO
+- Properly notate the yarnrc.yml fix from https://github.com/parcel-bundler/parcel/issues/6727
